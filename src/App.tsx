@@ -9,7 +9,7 @@ function App() {
   const { order, addItem, removeItem, tip, setTip, placeOrder } = useOrder();
   return (
     <>
-      <header className=" bg-teal-600 py-5">
+      <header className=" bg-purple-600 py-5">
         <h1 className="text-center text-4xl font-black">
           Calculadora de Propinas y Consumo
         </h1>
